@@ -3208,6 +3208,10 @@ input, select, textarea {
 .style2 * {
     color: #193615;
 }
+
+.style2 a{
+	color:purple;
+}
 /* Wrapper */
 
 	.wrapper {
